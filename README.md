@@ -75,7 +75,7 @@ The code performs the following tasks:
 - **Query Execution:** Invokes the model with a specific query regarding Pakistan's political landscape.
 - **Output:** Prints the content of the response received from the model.
 
-<img src="Chat-models-using-LangChain-Gemini-API-/output_chatmodels.png" alt="Chat Models Output" width="600">
+<img src="output_chatmodels.png" alt="Chat Models Output" width="600">
 
 
 ## License
