@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Before running the script, you need to create an API key. You can create your API key by visiting [Google AI Studio Prompts](https://aistudio.google.com/prompts/new_chat), which is freely available. Save your API key in a `.env` file in the root directory of the repository, for example:
 
 ```env
-HF_API_TOKEN="your_api_key_here"
+GOOGLE_API_KEY="your_api_key_here"
 ```
 
 > **Note:** Ensure you have the necessary API key from Google. The API key will be loaded into the script via the `.env` file.
